@@ -1,0 +1,265 @@
+[
+  {
+    "metadata": {
+      "contents": {
+        "messages": [],
+        "contents": [
+          {
+            "function": "uniques",
+            "attribute": "appName",
+            "memberLimit": 1000
+          }
+        ]
+      },
+      "eventTypes": [
+        "Transaction"
+      ],
+      "eventType": "Transaction",
+      "openEnded": true,
+      "messages": [],
+      "beginTimeMillis": 1748303472017,
+      "endTimeMillis": 1750895472017,
+      "beginTime": "2025-05-26T23:51:12Z",
+      "endTime": "2025-06-25T23:51:12Z",
+      "guid": "ef7c6288-e24d-8218-63e8-2e1f10b5b973",
+      "routerGuid": "ef7c6288-e24d-8218-63e8-2e1f10b5b973",
+      "rawSince": "30 DAYS AGO",
+      "rawUntil": "NOW",
+      "rawCompareWith": "",
+      "facet": "appName",
+      "offset": 0,
+      "limit": 10,
+      "facetExpression": "`appName`",
+      "accounts": [
+        4272634
+      ]
+    },
+    "facets": [
+      {
+        "name": "ModelPingAccess",
+        "results": [
+          {
+            "members": [
+              "ModelPingAccess"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-414 | DOCUMENT MANAGEMENT SYSTEM (DMS) | MDL",
+        "results": [
+          {
+            "members": [
+              "APP-414 | DOCUMENT MANAGEMENT SYSTEM (DMS) | MDL"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "ModelCIAMTomcat",
+        "results": [
+          {
+            "members": [
+              "ModelCIAMTomcat"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-696 | BROKER EXTRANET | MDL",
+        "results": [
+          {
+            "members": [
+              "APP-696 | BROKER EXTRANET | MDL"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "DevPingAccess",
+        "results": [
+          {
+            "members": [
+              "DevPingAccess"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-770 | NYL FILENET P8 | Model",
+        "results": [
+          {
+            "members": [
+              "APP-770 | NYL FILENET P8 | Model"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "ModelMFAPMTomcat",
+        "results": [
+          {
+            "members": [
+              "ModelMFAPMTomcat"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-188 | FORMS LIBRARY | MDL",
+        "results": [
+          {
+            "members": [
+              "APP-188 | FORMS LIBRARY | MDL"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-830.IPS.QA",
+        "results": [
+          {
+            "members": [
+              "APP-830.IPS.QA"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      },
+      {
+        "name": "APP-912 | REAL ESTATE MANAGER | MODEL",
+        "results": [
+          {
+            "members": [
+              "APP-912 | REAL ESTATE MANAGER | MODEL"
+            ]
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0
+      }
+    ],
+    "unknownGroup": {
+      "results": [
+        {
+          "members": [
+            "APP-13704 | FIIG STRUCTURED PRODUCT LIBRARY | STAGE",
+            "APP-13756 | OCIO Service - Investment | DEV",
+            "APP-12757 | MARKIT EDM | MODEL",
+            "APP-754 | GAI - General Account Invoicing | MODEL",
+            "APP-752 | EAPP4LIFE (ELIFE) | MDL",
+            "APP-409 | CT1035 WEB INQUIRY | APM| MODEL",
+            "APP-12803.Advisory Disclosure Form.NYM-IGTWEB1-AT.QA",
+            "V4UI",
+            "APP-912 | REAL ESTATE MANAGER | Preprod",
+            "DefaultAppPool",
+            ".Net 6",
+            "APP-770 | NYL ICN | Model",
+            "APP-662 | BOBCAT | MODEL",
+            "CashManagerAppPool",
+            "APP-715 | SAP GUI Interface | MODEL",
+            "APP-12756 | CASH MANAGER | MODEL-UI",
+            "APP-448 | NEW YORK LIFE ILLUSTRATION SYSTEM (NYLIS) | MODEL",
+            "APP-752 | EAPP4LIFE (ELIFE) APPTRIAGE | MDL",
+            "APP-342.PAR-API.Dev",
+            "APP-438 | SUGGESTION FORM | MDL",
+            "PingFederate",
+            "APP-352 | AGENT CONTRACTING SYSTEM (ACS) & ALERTS | MDL",
+            "DealpathService_Sandbox",
+            "DEVCIAM-OpenToken",
+            "APP-13320 | Investment - Coric | Preprod",
+            "App-912 | RealEstateManager Poop | Model",
+            "APP-770 | NYL FILENET BL | Model",
+            "My Application",
+            "APP-12743 | MyNYL | MODEL",
+            "DealpathServiceDDP",
+            "App-912 | Real Estate Manager | CD",
+            "Mportal | Tomcat | Dev"
+          ]
+        }
+      ],
+      "beginTimeSeconds": 0,
+      "endTimeSeconds": 0
+    },
+    "totalResult": {
+      "results": [
+        {
+          "members": [
+            "APP-13704 | FIIG STRUCTURED PRODUCT LIBRARY | STAGE",
+            "ModelPingAccess",
+            "APP-414 | DOCUMENT MANAGEMENT SYSTEM (DMS) | MDL",
+            "APP-13756 | OCIO Service - Investment | DEV",
+            "APP-12757 | MARKIT EDM | MODEL",
+            "APP-754 | GAI - General Account Invoicing | MODEL",
+            "ModelCIAMTomcat",
+            "APP-752 | EAPP4LIFE (ELIFE) | MDL",
+            "APP-409 | CT1035 WEB INQUIRY | APM| MODEL",
+            "APP-696 | BROKER EXTRANET | MDL",
+            "DevPingAccess",
+            "APP-770 | NYL FILENET P8 | Model",
+            "ModelMFAPMTomcat",
+            "APP-188 | FORMS LIBRARY | MDL",
+            "APP-12803.Advisory Disclosure Form.NYM-IGTWEB1-AT.QA",
+            "APP-830.IPS.QA",
+            "V4UI",
+            "APP-912 | REAL ESTATE MANAGER | Preprod",
+            "DefaultAppPool",
+            "APP-912 | REAL ESTATE MANAGER | MODEL",
+            ".Net 6",
+            "APP-770 | NYL ICN | Model",
+            "APP-662 | BOBCAT | MODEL",
+            "CashManagerAppPool",
+            "APP-715 | SAP GUI Interface | MODEL",
+            "APP-12756 | CASH MANAGER | MODEL-UI",
+            "APP-752 | EAPP4LIFE (ELIFE) APPTRIAGE | MDL",
+            "APP-448 | NEW YORK LIFE ILLUSTRATION SYSTEM (NYLIS) | MODEL",
+            "APP-342.PAR-API.Dev",
+            "APP-438 | SUGGESTION FORM | MDL",
+            "PingFederate",
+            "APP-352 | AGENT CONTRACTING SYSTEM (ACS) & ALERTS | MDL",
+            "DealpathService_Sandbox",
+            "DEVCIAM-OpenToken",
+            "APP-13320 | Investment - Coric | Preprod",
+            "App-912 | RealEstateManager Poop | Model",
+            "APP-770 | NYL FILENET BL | Model",
+            "My Application",
+            "APP-12743 | MyNYL | MODEL",
+            "DealpathServiceDDP",
+            "App-912 | Real Estate Manager | CD",
+            "Mportal | Tomcat | Dev"
+          ]
+        }
+      ],
+      "beginTimeSeconds": 0,
+      "endTimeSeconds": 0
+    },
+    "performanceStats": {
+      "inspectedCount": 117527711,
+      "exceedsRetentionWindow": true,
+      "responseTime": 4417
+    },
+    "queryUsageRaw": {
+      "inspectedCount": 117527711,
+      "scannedEvents": 128618575,
+      "ccu": 0.10623894295000001,
+      "billableMetric": "inspectedCount"
+    }
+  }
+]
